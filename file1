@@ -1,0 +1,2 @@
+a=("tree")
+print(type(a))
